@@ -2,4 +2,8 @@ style{
     body{
         border: 10px deepskyblue solid;
     }
+    h1{
+        color: yellow;
+        font-size: 4rem;
+    }
 }
